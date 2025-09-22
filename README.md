@@ -1,4 +1,5 @@
 # EV_Renewable_Playground
+![Uploading Generated Image September 22, 2025 - 9_20PM.png…]()
 
 ```plaintext
 
