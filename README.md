@@ -1,5 +1,6 @@
 # EV_Renewable_Playground
-![Uploading Generated Image September 22, 2025 - 9_20PM.png…]
+<img width="1024" height="1024" alt="Generated Image September 22, 2025 - 9_20PM" src="https://github.com/user-attachments/assets/a1c9782a-213e-4da6-8787-52954654455a" />
+
 
 
 ```plaintext
